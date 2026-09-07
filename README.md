@@ -101,6 +101,26 @@ Successfully built a working AWS infrastructure that demonstrates:
 - SNS integration
 - EBS backup and recovery
 
+## Project Proof
+
+### VPC Network Architecture
+![VPC Resource Map](screenshots/vpc-resource-map.png)
+
+### Healthy Load Balancer Targets
+![Healthy Target Group](screenshots/target-group-healthy.png)
+
+### Auto Scaling Group
+![Auto Scaling Group](screenshots/auto-scaling-healthy.png)
+
+### CloudWatch Monitoring and Alerting
+![CloudWatch Alarm History](screenshots/cloudwatch-alarm-history.png)
+
+### EBS Snapshot Backup
+![EBS Snapshot](screenshots/ebs-snapshot-completed.png)
+
+### EBS Volume Restore
+![Restored EBS Volume](screenshots/ebs-restored-volume.png)
+
 ## Author
 
 Rohit Kumar  
