@@ -1,0 +1,44 @@
+🏁 SECTION 1: IAM BASICS
+1.IAM Dashboard overview
+2.Root user vs IAM user
+3.IAM Users
+4.IAM Groups
+5.Policy attachment methods
+6.AWS Managed Policies
+7.Customer Managed Policies
+8.Inline Policies (basic)
+
+🔐 SECTION 2: SECURITY BASICS
+9.MFA
+10.Password policy
+11.Access keys basics
+12.Console vs programmatic access
+13.Least privilege principle
+
+📜 SECTION 3: POLICY UNDERSTANDING
+14.JSON policy basics
+15.Effect (Allow / Deny)
+16.Action
+17.Resource
+18.Explicit deny basics
+19.Bucket-specific custom policies
+20.Policy editing
+
+🛠 SECTION 4: PRACTICAL SECURITY
+21.Bucket restriction
+22.Group-based permissions
+23.Direct vs inherited permissions
+24.Policy troubleshooting
+25.AccessDenied debugging
+26.Policy Simulator basic
+
+🎭 SECTION 5: IAM ROLES
+27.IAM Roles overview
+28.Service roles (EC2/Lambda)
+29.Trust relationships basics
+30.Temporary permissions concept
+
+📊 SECTION 6: MONITORING & REVIEW
+31.Credential reports basics
+32.Access Analyzer basics
+33.Login activity/security review
